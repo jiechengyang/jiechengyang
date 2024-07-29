@@ -6,3 +6,15 @@
 ![image](https://github.com/jiechengyang/jiechengyang/assets/33148475/c00520c8-b806-4cbe-a00f-e986987ab55f)
 # 个人推荐
 - 推荐一个好用的 [vpn](https://portal.shadowsocks.au/aff.php?aff=55199)
+
+## 🧑‍💻 贡献活跃度
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxwk1998/zxwk1998/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxwk1998/zxwk1998/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zxwk1998/zxwk1998/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 📈 主页访问量
+
+![](https://profile-counter.glitch.me/jiechengyang/count.svg)
