@@ -10,9 +10,9 @@
 ## 🧑‍💻 贡献活跃度
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxwk1998/zxwk1998/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxwk1998/zxwk1998/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zxwk1998/zxwk1998/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiechengyang/jiechengyang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiechengyang/jiechengyang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jiechengyang/jiechengyang/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 📈 主页访问量
