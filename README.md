@@ -9,10 +9,6 @@
 
 ### [NodeIotGateway](https://github.com/jiechengyang/NodeIotGateway)
 <img width="730" alt="image" src="https://github.com/user-attachments/assets/f1403e09-d668-4cfc-9c2c-0012d97daaef" />
-
-### [short-video-parse](https://github.com/wzj177/short-video-parse)
-<img width="440" alt="image" src="https://github.com/user-attachments/assets/07deab59-573a-4301-bb20-accab92a9bcf" />
-
 ---
 
 ## 往年
